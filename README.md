@@ -14,4 +14,4 @@ Interactive HTML prototype for governance vote claiming flows.
 - Interactive vote selection
 - Sticky claim selection panel
 
-Built as a portable HTML, CSS, and JavaScript prototype.
+Built as a portable HTML, CSS, and JavaScript prototype. Published automatically with GitHub Pages.
